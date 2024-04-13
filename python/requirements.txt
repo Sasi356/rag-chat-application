@@ -1,0 +1,7 @@
+Flask
+langchain-community
+pypdf
+llama-index-llms-langchain
+llama-index-embeddings-langchain
+llama-index-llms-huggingface
+llama-index-readers-file
